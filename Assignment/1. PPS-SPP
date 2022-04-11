@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+char c1 = 'P',c2 = 'P',c3 = 'S';
+printf("The reverse of %c%c%c is %c%c%c",c1,c2,c3,c3,c2,c1);
+}
